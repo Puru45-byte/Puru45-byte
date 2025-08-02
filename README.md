@@ -29,13 +29,13 @@
 <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Puru45-byte&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=15" alt="Sameer's GitHub Stats" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameer266&layout=compact&theme=tokyonight&border_radius=15" alt="Top Languages" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Puru45-byte&layout=compact&theme=tokyonight&border_radius=15" alt="Top Languages" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sameer266&theme=tokyonight&border_radius=15" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Puru45-byte&theme=tokyonight&border_radius=15" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="110%" />
 </div>
