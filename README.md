@@ -27,7 +27,7 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sameer266&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=15" alt="Sameer's GitHub Stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Puru45-byte&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=15" alt="Sameer's GitHub Stats" />
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameer266&layout=compact&theme=tokyonight&border_radius=15" alt="Top Languages" />
 </div>
